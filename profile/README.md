@@ -28,7 +28,7 @@ Your all-in-one, AI-powered business management platform for teams of all sizes.
 ## 🌐 Explore Online
 
 Visit our website to learn more, watch demos, and start free:  
-**https://www.stratly.app**
+**https://stratly.app**
 
 ---
 
