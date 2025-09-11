@@ -28,11 +28,6 @@ Stratly is an all-in-one workspace where teams manage **people, projects, and fi
 - **Real-time everywhere** — web, iOS, and Android stay perfectly in sync.
 - **Security first** — encryption in transit/at rest and role-based access.
 
-## For developers
-- **Console (app)** — Flutter web/app codebase: product features and flows.
-- **UI Kit** — design system: tokens, themes, responsive primitives, components.
-- **Widgetbook** — live UI catalog: <a href="https://widgetbook.stratly.app">widgetbook.stratly.app</a>
-
 ## Connect
 - Website: <a href="https://stratly.app">stratly.app</a>  
 - Support & contact: via the website
